@@ -1,6 +1,6 @@
 ---
-title: "더알아보자"
-permalink: /about/
+title: "포트폴리오"
+permalink: /portpolio/
 layout: single
 ---
 

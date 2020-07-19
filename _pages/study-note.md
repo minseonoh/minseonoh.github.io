@@ -1,6 +1,6 @@
 ---
-title: "더알아보자"
-permalink: /about/
+title: "공부노트"
+permalink: /stydy-note/
 layout: single
 ---
 

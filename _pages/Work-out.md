@@ -1,6 +1,6 @@
 ---
-title: "더알아보자"
-permalink: /about/
+title: "오류해결"
+permalink: /work-out/
 layout: single
 ---
 
