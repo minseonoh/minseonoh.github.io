@@ -1,6 +1,6 @@
 ---
 title: "오류해결"
-permalink: /work-out/
+permalink: /work out/
 layout: single
 ---
 
