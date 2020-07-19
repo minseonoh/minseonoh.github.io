@@ -1,6 +1,6 @@
 ---
 title: "공부노트"
-permalink: /Study Note/
+permalink: /StudyNote/
 layout: single
 ---
 
