@@ -1,5 +1,5 @@
 ---
-title: "더알아보자"
+title: "About"
 permalink: /about/
 layout: single
 ---

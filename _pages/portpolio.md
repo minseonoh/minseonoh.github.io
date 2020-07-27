@@ -1,5 +1,5 @@
 ---
-title: "포트폴리오"
+title: "Portpolio"
 permalink: /portpolio/
 layout: single
 ---

@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale: "ko"
@@ -95,19 +95,19 @@ author:
   name: "seon oh"
   avatar: /assets/images/700x700.png
 
-  bio: "디자인 좋아하는 개발자 지망생"
+  bio: "프론트엔드 개발자"
   location: "seoul, korea"
   email:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:alwaysgood21@naver.com"
+      url: "mailto:alwaysgood21@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://minseonoh.github.io/"
+      url: "https://minseonoh.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/minseonoh"
+      url: "https://github.com/minseonoh"
 
 # Site Footer
 footer:

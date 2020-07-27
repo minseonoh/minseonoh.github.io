@@ -2,12 +2,12 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Study Note"
-    url: /studyNote/
+  - title: "Study"
+    url: /study/
   - title: "Portpolio"
     url: /portpolio/
-  - title: "Work Out"
-    url: /Work-out/
+  - title: "work"
+    url: /Work/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
