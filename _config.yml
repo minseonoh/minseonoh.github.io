@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale: "ko"
@@ -32,7 +32,7 @@ words_per_minute: 200
 comments:
   provider: "disqus"
   disqus:
-    shortname: minseonoh-github-io
+    shortname:
   discourse:
     server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -95,7 +95,7 @@ author:
   name: "seon oh"
   avatar: /assets/images/700x700.png
 
-  bio: "프론트엔드 개발자"
+  bio: "Designer & junior Web Developer"
   location: "seoul, korea"
   email:
   links:
